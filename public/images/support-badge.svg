@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <circle cx="40" cy="40" r="38" fill="#fff7ed" stroke="#f97316" stroke-width="2" />
+  <circle cx="40" cy="35" r="15" fill="#f97316" />
+  <path d="M40,28 C43,28 45,30 45,33 C45,36 43,38 40,38 C40,38 40,40 40,42" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <circle cx="40" cy="46" r="1.5" fill="white" />
+  <path d="M27 52 L53 52 C53 58 47 62 40 62 C33 62 27 58 27 52 Z" fill="#f97316" />
+  <rect x="36" y="52" width="8" height="3" fill="white" />
+  <circle cx="60" cy="60" r="12" fill="#f97316" />
+  <text x="60" y="63" font-family="Arial" font-size="8" text-anchor="middle" fill="white" font-weight="bold">24/7</text>
+  <text x="40" y="70" font-family="Arial" font-size="6" text-anchor="middle" fill="#f97316" font-weight="bold">24/7 SUPPORT</text>
+</svg> 

@@ -1,0 +1,75 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brain outline -->
+  <path d="M300 120C250 120 210 145 180 185C150 225 140 275 150 325C160 375 190 420 230 450C270 480 320 495 370 490C420 485 465 465 500 430C535 395 550 350 550 300C550 250 530 200 490 165C450 130 400 120 350 130C330 135 310 145 300 160C290 145 270 135 250 130C200 120 150 140 120 180C90 220 80 270 90 320C100 370 130 415 170 445C210 475 260 490 310 485" stroke="#8B5CF6" stroke-width="8" stroke-linecap="round" stroke-dasharray="12 16"/>
+  
+  <!-- Neural network nodes -->
+  <circle cx="300" cy="150" r="15" fill="#06B6D4"/>
+  <circle cx="250" cy="200" r="15" fill="#06B6D4"/>
+  <circle cx="350" cy="200" r="15" fill="#06B6D4"/>
+  <circle cx="200" cy="250" r="15" fill="#8B5CF6"/>
+  <circle cx="300" cy="250" r="15" fill="#8B5CF6"/>
+  <circle cx="400" cy="250" r="15" fill="#8B5CF6"/>
+  <circle cx="150" cy="300" r="15" fill="#06B6D4"/>
+  <circle cx="250" cy="300" r="15" fill="#06B6D4"/>
+  <circle cx="350" cy="300" r="15" fill="#06B6D4"/>
+  <circle cx="450" cy="300" r="15" fill="#06B6D4"/>
+  <circle cx="200" cy="350" r="15" fill="#8B5CF6"/>
+  <circle cx="300" cy="350" r="15" fill="#8B5CF6"/>
+  <circle cx="400" cy="350" r="15" fill="#8B5CF6"/>
+  <circle cx="250" cy="400" r="15" fill="#06B6D4"/>
+  <circle cx="350" cy="400" r="15" fill="#06B6D4"/>
+  <circle cx="300" cy="450" r="15" fill="#8B5CF6"/>
+  
+  <!-- Neural connections -->
+  <line x1="300" y1="165" x2="260" y2="190" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="300" y1="165" x2="340" y2="190" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="250" y1="215" x2="210" y2="240" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="250" y1="215" x2="290" y2="240" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="350" y1="215" x2="310" y2="240" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="350" y1="215" x2="390" y2="240" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="200" y1="265" x2="160" y2="290" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="200" y1="265" x2="240" y2="290" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="300" y1="265" x2="260" y2="290" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="300" y1="265" x2="340" y2="290" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="400" y1="265" x2="360" y2="290" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="400" y1="265" x2="440" y2="290" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="150" y1="315" x2="190" y2="340" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="250" y1="315" x2="210" y2="340" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="250" y1="315" x2="290" y2="340" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="350" y1="315" x2="310" y2="340" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="350" y1="315" x2="390" y2="340" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="450" y1="315" x2="410" y2="340" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="200" y1="365" x2="240" y2="390" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="300" y1="365" x2="260" y2="390" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="300" y1="365" x2="340" y2="390" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="400" y1="365" x2="360" y2="390" stroke="#06B6D4" stroke-width="2"/>
+  <line x1="250" y1="415" x2="290" y2="440" stroke="#8B5CF6" stroke-width="2"/>
+  <line x1="350" y1="415" x2="310" y2="440" stroke="#8B5CF6" stroke-width="2"/>
+  
+  <!-- Digital effects -->
+  <circle cx="175" cy="225" r="5" fill="#06B6D4">
+    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="375" cy="225" r="5" fill="#06B6D4">
+    <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="275" cy="175" r="5" fill="#8B5CF6">
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="225" cy="275" r="5" fill="#8B5CF6">
+    <animate attributeName="opacity" values="0;1;0" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="325" cy="375" r="5" fill="#06B6D4">
+    <animate attributeName="opacity" values="0;1;0" dur="2.8s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="425" cy="325" r="5" fill="#06B6D4">
+    <animate attributeName="opacity" values="0;1;0" dur="3.2s" repeatCount="indefinite" />
+  </circle>
+  
+  <!-- Binary numbers -->
+  <text x="150" y="200" fill="#06B6D4" font-family="monospace" font-size="10">10110</text>
+  <text x="390" y="220" fill="#8B5CF6" font-family="monospace" font-size="10">01001</text>
+  <text x="130" y="350" fill="#06B6D4" font-family="monospace" font-size="10">11010</text>
+  <text x="420" y="370" fill="#8B5CF6" font-family="monospace" font-size="10">10101</text>
+  <text x="250" y="450" fill="#06B6D4" font-family="monospace" font-size="10">01110</text>
+</svg>

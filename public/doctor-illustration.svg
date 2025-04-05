@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Doctor figure -->
+  <circle cx="200" cy="150" r="50" fill="#4f95ff" />
+  <rect x="160" y="200" width="80" height="150" fill="#4f95ff" />
+  <rect x="160" y="350" width="30" height="80" fill="#2b5cad" />
+  <rect x="210" y="350" width="30" height="80" fill="#2b5cad" />
+  <line x1="160" y1="220" x2="100" y2="280" stroke="#4f95ff" stroke-width="30" stroke-linecap="round" />
+  <line x1="240" y1="220" x2="300" y2="280" stroke="#4f95ff" stroke-width="30" stroke-linecap="round" />
+  
+  <!-- Stethoscope -->
+  <path d="M240,200 Q270,230 280,260 Q290,290 330,290" stroke="#333" stroke-width="5" fill="none" />
+  <circle cx="330" cy="290" r="10" fill="#333" />
+  
+  <!-- Patient figure -->
+  <circle cx="390" cy="180" r="40" fill="#f0f0f0" />
+  <rect x="360" y="220" width="60" height="110" fill="#f0f0f0" />
+  <rect x="360" y="330" width="25" height="70" fill="#e0e0e0" />
+  <rect x="395" y="330" width="25" height="70" fill="#e0e0e0" />
+  
+  <!-- Doctor's face -->
+  <circle cx="185" cy="140" r="8" fill="#333" />
+  <circle cx="215" cy="140" r="8" fill="#333" />
+  <path d="M185,170 Q200,180 215,170" stroke="#333" stroke-width="3" fill="none" />
+  
+  <!-- Patient's face -->
+  <circle cx="375" cy="170" r="6" fill="#333" />
+  <circle cx="405" cy="170" r="6" fill="#333" />
+  <path d="M375,195 Q390,190 405,195" stroke="#333" stroke-width="3" fill="none" />
+  
+  <!-- Medical cross symbol -->
+  <rect x="50" y="50" width="50" height="50" rx="5" fill="#ff5555" />
+  <rect x="60" y="30" width="30" height="90" rx="5" fill="#ff5555" />
+</svg> 

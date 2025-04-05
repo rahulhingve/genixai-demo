@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Background Pattern -->
+  <rect x="0" y="0" width="800" height="600" fill="#673ab7" opacity="0.05"/>
+  <circle cx="700" cy="500" r="150" fill="#673ab7" opacity="0.1"/>
+  <circle cx="100" cy="100" r="100" fill="#673ab7" opacity="0.1"/>
+  
+  <!-- Communication Network Diagram -->
+  
+  <!-- Central Hub: AI -->
+  <circle cx="400" cy="300" r="70" fill="#673ab7" opacity="0.8"/>
+  <text x="400" y="300" font-family="Arial" font-size="18" fill="white" text-anchor="middle" font-weight="bold">AI Medical</text>
+  <text x="400" y="325" font-family="Arial" font-size="18" fill="white" text-anchor="middle" font-weight="bold">Communication</text>
+  
+  <!-- Node 1: Doctor -->
+  <circle cx="200" cy="150" r="50" fill="#673ab7" opacity="0.6"/>
+  <text x="200" y="150" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Doctor</text>
+  
+  <!-- Connection 1 -->
+  <line x1="250" y1="175" x2="350" y2="250" stroke="#673ab7" stroke-width="3" stroke-dasharray="5,5"/>
+  <circle cx="300" cy="212" r="10" fill="#673ab7" opacity="0.4"/>
+  
+  <!-- Node 2: Nurses -->
+  <circle cx="200" cy="400" r="50" fill="#673ab7" opacity="0.6"/>
+  <text x="200" y="400" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Nurses</text>
+  
+  <!-- Connection 2 -->
+  <line x1="250" y1="390" x2="340" y2="340" stroke="#673ab7" stroke-width="3" stroke-dasharray="5,5"/>
+  <circle cx="295" cy="365" r="10" fill="#673ab7" opacity="0.4"/>
+  
+  <!-- Node 3: Patients -->
+  <circle cx="600" cy="150" r="50" fill="#673ab7" opacity="0.6"/>
+  <text x="600" y="150" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Patients</text>
+  
+  <!-- Connection 3 -->
+  <line x1="560" y1="175" x2="450" y2="250" stroke="#673ab7" stroke-width="3" stroke-dasharray="5,5"/>
+  <circle cx="505" cy="212" r="10" fill="#673ab7" opacity="0.4"/>
+  
+  <!-- Node 4: Specialists -->
+  <circle cx="600" cy="400" r="50" fill="#673ab7" opacity="0.6"/>
+  <text x="600" y="400" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Specialists</text>
+  
+  <!-- Connection 4 -->
+  <line x1="550" y1="390" x2="460" y2="340" stroke="#673ab7" stroke-width="3" stroke-dasharray="5,5"/>
+  <circle cx="505" cy="365" r="10" fill="#673ab7" opacity="0.4"/>
+  
+  <!-- Communication Icons -->
+  <!-- Chat Bubble 1 -->
+  <path d="M150,230 L180,200 L250,200 Q270,200 270,220 L270,260 Q270,280 250,280 L170,280 Q150,280 150,260 L150,230" fill="white" stroke="#673ab7" stroke-width="2"/>
+  <path d="M180,230 L200,230 L190,250 Z" fill="#673ab7"/>
+  <line x1="170" y1="220" x2="250" y2="220" stroke="#673ab7" stroke-width="2"/>
+  <line x1="170" y1="240" x2="230" y2="240" stroke="#673ab7" stroke-width="2"/>
+  <line x1="170" y1="260" x2="240" y2="260" stroke="#673ab7" stroke-width="2"/>
+  
+  <!-- Chat Bubble 2 -->
+  <path d="M520,230 L550,200 L620,200 Q640,200 640,220 L640,260 Q640,280 620,280 L540,280 Q520,280 520,260 L520,230" fill="white" stroke="#673ab7" stroke-width="2"/>
+  <path d="M550,230 L570,230 L560,250 Z" fill="#673ab7"/>
+  <line x1="540" y1="220" x2="620" y2="220" stroke="#673ab7" stroke-width="2"/>
+  <line x1="540" y1="240" x2="600" y2="240" stroke="#673ab7" stroke-width="2"/>
+  <line x1="540" y1="260" x2="610" y2="260" stroke="#673ab7" stroke-width="2"/>
+  
+  <!-- Data Elements -->
+  <rect x="300" y="450" width="200" height="20" rx="5" fill="#673ab7" opacity="0.3"/>
+  <rect x="350" y="480" width="100" height="20" rx="5" fill="#673ab7" opacity="0.3"/>
+  <rect x="250" y="510" width="300" height="20" rx="5" fill="#673ab7" opacity="0.3"/>
+  
+  <!-- Title -->
+  <text x="400" y="560" font-family="Arial" font-size="24" fill="#673ab7" text-anchor="middle" font-weight="bold">Medical Communication</text>
+</svg> 

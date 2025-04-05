@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <circle cx="40" cy="40" r="38" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="2" />
+  <path d="M40,20 C33,20 27,25 26,31 C20,32 16,37 16,43 C16,50 22,56 30,56 L50,56 C56,56 60,51 60,46 C60,41 57,37 52,36 C52,27 47,20 40,20 Z" fill="#8b5cf6" />
+  <path d="M40,26 C35,26 31,30 30,35 C26,36 23,39 23,43 C23,48 27,52 33,52 L47,52 C51,52 54,49 54,45 C54,42 52,39 49,38 C49,31 45,26 40,26 Z" fill="#f5f3ff" />
+  <rect x="36" y="38" width="8" height="12" rx="2" fill="#8b5cf6" />
+  <circle cx="40" cy="42" r="2" fill="white" />
+  <circle cx="60" cy="60" r="12" fill="#8b5cf6" />
+  <path d="M55 60 L59 64 L65 56" stroke="white" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="40" y="70" font-family="Arial" font-size="6" text-anchor="middle" fill="#8b5cf6" font-weight="bold">CLOUD SECURITY</text>
+</svg> 

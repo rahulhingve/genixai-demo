@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Doctor figure -->
+  <circle cx="250" cy="150" r="50" fill="#4f95ff" />
+  <rect x="210" y="200" width="80" height="150" fill="#4f95ff" />
+  <rect x="210" y="350" width="30" height="80" fill="#2b5cad" />
+  <rect x="260" y="350" width="30" height="80" fill="#2b5cad" />
+  <line x1="210" y1="220" x2="150" y2="280" stroke="#4f95ff" stroke-width="30" stroke-linecap="round" />
+  <line x1="290" y1="220" x2="350" y2="280" stroke="#4f95ff" stroke-width="30" stroke-linecap="round" />
+  
+  <!-- Doctor's face -->
+  <circle cx="235" cy="140" r="8" fill="#333" />
+  <circle cx="265" cy="140" r="8" fill="#333" />
+  <path d="M235,170 Q250,180 265,170" stroke="#333" stroke-width="3" fill="none" />
+  
+  <!-- AI Circuit Pattern Background -->
+  <circle cx="420" cy="100" r="40" fill="#e0f7fa" stroke="#00bcd4" stroke-width="2" />
+  <circle cx="80" cy="300" r="40" fill="#e0f7fa" stroke="#00bcd4" stroke-width="2" />
+  <path d="M420,100 L350,100 L350,200 L300,200" stroke="#00bcd4" stroke-width="2" fill="none" />
+  <path d="M80,300 L150,300 L150,250 L200,250" stroke="#00bcd4" stroke-width="2" fill="none" />
+  
+  <circle cx="350" cy="100" r="5" fill="#00bcd4" />
+  <circle cx="350" cy="200" r="5" fill="#00bcd4" />
+  <circle cx="150" cy="300" r="5" fill="#00bcd4" />
+  <circle cx="150" cy="250" r="5" fill="#00bcd4" />
+  
+  <!-- AI Brain -->
+  <ellipse cx="420" cy="100" rx="25" ry="30" fill="none" stroke="#ff5722" stroke-width="2" />
+  <path d="M400,90 Q420,70 440,90" stroke="#ff5722" stroke-width="2" fill="none" />
+  <path d="M400,110 Q420,130 440,110" stroke="#ff5722" stroke-width="2" fill="none" />
+  <line x1="420" y1="70" x2="420" y2="130" stroke="#ff5722" stroke-width="2" />
+  <line x1="410" y1="80" x2="410" y2="120" stroke="#ff5722" stroke-width="2" />
+  <line x1="430" y1="80" x2="430" y2="120" stroke="#ff5722" stroke-width="2" />
+  
+  <!-- Data Visualization Element -->
+  <rect x="50" y="100" width="60" height="60" rx="5" fill="#e0f7fa" stroke="#00bcd4" stroke-width="2" />
+  <line x1="60" y1="130" x2="100" y2="130" stroke="#00bcd4" stroke-width="2" />
+  <line x1="60" y1="140" x2="90" y2="140" stroke="#00bcd4" stroke-width="2" />
+  <line x1="60" y1="120" x2="80" y2="120" stroke="#00bcd4" stroke-width="2" />
+  
+  <!-- Speech Recognition Waves -->
+  <path d="M320,80 Q330,70 340,80 Q350,90 360,80 Q370,70 380,80" stroke="#ff9800" stroke-width="2" fill="none" />
+  <path d="M320,95 Q335,80 350,95 Q365,110 380,95" stroke="#ff9800" stroke-width="2" fill="none" />
+  <path d="M320,110 Q340,90 360,110 Q380,130 400,110" stroke="#ff9800" stroke-width="2" fill="none" />
+</svg> 

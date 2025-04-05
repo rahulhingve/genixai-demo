@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#e0f7fa"/>
+  
+  <!-- Background Pattern -->
+  <rect x="0" y="0" width="800" height="600" fill="#4f95ff" opacity="0.1"/>
+  <circle cx="200" cy="300" r="150" fill="#4f95ff" opacity="0.2"/>
+  <circle cx="600" cy="200" r="100" fill="#4f95ff" opacity="0.2"/>
+  
+  <!-- Sound Waves -->
+  <path d="M250,300 Q300,200 350,300 Q400,400 450,300 Q500,200 550,300" stroke="#0070f3" stroke-width="6" fill="none"/>
+  <path d="M200,300 Q275,150 350,300 Q425,450 500,300 Q575,150 650,300" stroke="#0070f3" stroke-width="4" fill="none"/>
+  <path d="M150,300 Q250,100 350,300 Q450,500 550,300 Q650,100 750,300" stroke="#0070f3" stroke-width="2" fill="none"/>
+  
+  <!-- Microphone Icon -->
+  <rect x="350" y="180" width="100" height="180" rx="50" fill="#0070f3"/>
+  <rect x="380" y="120" width="40" height="60" rx="10" fill="#0070f3"/>
+  <rect x="370" y="100" width="60" height="30" rx="10" fill="#0070f3"/>
+  
+  <!-- Text Placeholder -->
+  <rect x="200" y="400" width="400" height="30" rx="5" fill="#0070f3" opacity="0.7"/>
+  <rect x="250" y="450" width="300" height="20" rx="5" fill="#0070f3" opacity="0.5"/>
+  <rect x="300" y="490" width="200" height="20" rx="5" fill="#0070f3" opacity="0.3"/>
+  
+  <!-- AI Connection Lines -->
+  <line x1="380" y1="180" x2="280" y2="100" stroke="#0070f3" stroke-width="2" stroke-dasharray="5,5"/>
+  <line x1="420" y1="180" x2="520" y2="100" stroke="#0070f3" stroke-width="2" stroke-dasharray="5,5"/>
+  <circle cx="280" cy="100" r="20" fill="#0070f3" opacity="0.5"/>
+  <circle cx="520" cy="100" r="20" fill="#0070f3" opacity="0.5"/>
+  
+  <!-- Title "Speech Recognition" -->
+  <text x="400" y="560" font-family="Arial" font-size="24" fill="#0070f3" text-anchor="middle" font-weight="bold">Speech Recognition</text>
+</svg> 
